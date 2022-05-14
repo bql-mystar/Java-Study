@@ -1,0 +1,41 @@
+HTML +Css
+https://www.bilibili.com/video/BV1Kg411T7t9（女老师，时间短）
+https://www.bilibili.com/video/BV1pE411q7FU?p=480（一个我比较喜欢的老师，总时长是上面的两倍）
+https://www.bilibili.com/video/BV14J4114768?p=528 （和第二个的视频多了半个小时的拓展，看需要）
+
+JavaScript
+https://www.bilibili.com/video/BV1ux411d75J?p=161
+
+DOM BOM
+https://www.bilibili.com/video/BV1k4411w7sV?spm_id_from=333.788.b_636f6d6d656e74.10
+
+jQuery（这一部分没空可以先不学，大企业一般不用，有空了解一下即可）
+https://www.bilibili.com/video/BV1a4411w7Gx
+
+Ajax（两个都要看，一个是上，一个是下）
+https://www.bilibili.com/video/BV1ox411M7P2
+https://www.bilibili.com/video/BV15x411E7xH
+
+vue2.0-vue3.0（福州的企业都还在2.0，看到2.0相关部分内容即可，学有余力看完都可以，下面三个，如果喜欢了黑马的风格就接着看第一个，要不然第二第三的会更好）
+https://www.bilibili.com/video/BV1zq4y1p7ga?spm_id_from=333.788.b_636f6d6d656e74.12
+https://www.bilibili.com/video/BV1Zy4y1K7SH?from=search&seid=6445505424485164977&spm_id_from=333.337.0.0
+https://www.bilibili.com/video/BV15741177Eh?from=search&seid=16540321673999657436&spm_id_from=333.337.0.0
+
+-------------------------------------------------------------------------
+看完上面部分就可以去面试了，接下来是加分项
+git（有空再给你准备资料你去学，这个只要花一天就可以学会）
+https://www.bilibili.com/video/BV1sJ411D7xN
+
+mongodb
+node.js  
+MySQL 
+
+
+-------------------------------------------------------------------------
+接下来的是福州一般用不上的，但大厂在用的
+react
+https://www.bilibili.com/video/BV1gh411U7JD
+
+
+typescript
+https://www.bilibili.com/video/BV14Z4y1u7pi
